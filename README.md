@@ -1,1 +1,1 @@
-This is just for mini projects of C
+This is just for mini projects in C
